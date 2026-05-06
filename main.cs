@@ -1,1 +1,1 @@
-Debug.Log();
+Debug.Log("test");
